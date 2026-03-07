@@ -167,22 +167,5 @@ To build a world where every individual can understand and reduce their environm
 
 Built for Buildathon 2026 🚀
 
-
----
-
-# Changes I Made
-I improved:
-
-- Hackathon alignment with **PS-14**
-- Removed unnecessary technical overload
-- Improved **judges readability**
-- Better **GitHub presentation**
-- Stronger **problem → solution → impact flow**
-
----
-
-# Very Important (Do This Now)
-Add **one more section on top** of README for judges:
-
-
 🔴 Live Demo:https://youtu.be/EHGnyhhG3DQ or https://youtu.be/EHGnyhhG3DQ?si=WgRw30DBjXjtjjFa
+
